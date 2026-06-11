@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://test-purchase-check.xyz/posts/checklist-002-wp5lsp.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://test-purchase-check.xyz/posts/checklist-003-q0p6d2.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -21,6 +27,12 @@
   <url>
     <loc>https://test-purchase-check.xyz/posts/compare-001-6oghmc.html</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://test-purchase-check.xyz/posts/compare-001-m63dfv.html</loc>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -69,6 +81,12 @@
   <url>
     <loc>https://test-purchase-check.xyz/posts/interview-001-x3no00.html</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://test-purchase-check.xyz/posts/myth-003-1cmr8re.html</loc>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
