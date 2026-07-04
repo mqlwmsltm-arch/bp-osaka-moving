@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://osaka-moving.node-link.shop/sitemap.xml
+Sitemap: https://hapjeong-coin-guide.node-link.shop/sitemap.xml
