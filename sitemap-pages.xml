@@ -326,6 +326,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://test-purchase-check.xyz/posts/gemini-coverage-20260731-0049.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://test-purchase-check.xyz/posts/guide-001-7e8u7q.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
